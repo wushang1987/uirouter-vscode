@@ -1,0 +1,12 @@
+{
+    "uirouter": {
+        "prefix": "$stateProvider",
+        "body": "$stateProvider",
+        "description": "description"
+    },
+    "state": {
+        "prefix": "state",
+        "body": "$state",
+        "description": "description"
+    }
+}
